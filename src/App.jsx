@@ -8,6 +8,7 @@ import Lottery from './Lottery';
 function App() {
   return (
     <>
+      <Navbar/>
       < Lottery/>
       {/* <Todolist/> */}
       {/* <LikeButton/> */}
